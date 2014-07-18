@@ -24,7 +24,7 @@ p{
 	font-style: normal;
 	font-weight: normal;
 	line-height:normal;
-	color:#999;
+	color:#FFF;
 }
 
 h1{font-size:32px;}
@@ -131,8 +131,8 @@ p.lead{font-color:#7F7F7F;font-size:18px;font-weight:400;font-family: 'Open Sans
 .addborder{border-top:2px solid #4aaaa5;}
 
 a.inverse-link,
-a:visited.inverse-link{color:#4aaaa5;}
-a:hover.inverse-link{color:#47B5AC;}
+a:visited.inverse-link{color:#000!important;}
+a:hover.inverse-link{color:#E6B61E!important;}
 
 ul.the-icons li{list-style:none;padding:3px 0px;}
 
@@ -366,6 +366,7 @@ a:hover.comment-reply-link{
 	font-weight:300;
 	text-transform:uppercase;
 	font-size:12px;
+	color: #656565;
 }
 
 .fullwidth{
@@ -475,9 +476,10 @@ a img.aligncenter, img.aligncenter {display: block;margin-left: auto;margin-righ
 .header{
 	float:left;
 	width:100%;
-	background-color:#252525;
+	background-color:#565656;
 	min-height:86px;
 	z-index: 2000;
+	padding-bottom: 10px;
 }
 
 .stickyheader{
@@ -570,7 +572,7 @@ a img.aligncenter, img.aligncenter {display: block;margin-left: auto;margin-righ
 .nav-pills > li > a {
 	padding:26px 15px 30px 15px;
 	margin:10px 0px 0px 22px;
-	color:#A1A6AF;
+	color:#FFF;
 	border-radius:4px 4px 0px 0px;
 }
 
@@ -703,7 +705,7 @@ a img.aligncenter, img.aligncenter {display: block;margin-left: auto;margin-righ
 .footer{
 	width:100%;
 	float:left;
-	background-color:#252525;
+	background-color:#565656;
 }
 
 .footerwidgetarea{
@@ -1219,7 +1221,7 @@ ul.clientslist li:hover{
 
 span.teamposition{
 	width:100%;
-	color:#CCC;
+	color:#656565;
 	font-size:12px;
 	font-weight:400;
 	padding:0px 0px 15px 0px;
