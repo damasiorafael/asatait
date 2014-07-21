@@ -263,11 +263,11 @@
         <!--Latest clients area -->
         <div class="row">
             <ul class="clientslist">
-                <li><img alt="lo4" src="images/clients/lo1.png"></li>
-                <li><img alt="lo4" src="images/clients/lo2.png"></li>
-                <li><img alt="lo4" src="images/clients/lo3.png"></li>
-                <li><img alt="lo4" src="images/clients/lo4.png"></li>
-                <li><img alt="lo4" src="images/clients/lo5.png"></li>
+                <li><img alt="lo4" src="uploads/clientes/ayoshii.png"></li>
+                <li><img alt="lo4" src="uploads/clientes/abril.png"></li>
+                <li><img alt="lo4" src="uploads/clientes/maxi.png"></li>
+                <li><img alt="lo4" src="uploads/clientes/frango_granjeiro.png"></li>
+                <li><img alt="lo4" src="uploads/clientes/yticon.png"></li>
            </ul>
         </div>
 	</div>
