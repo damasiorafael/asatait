@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ASA Tait Editoração - HOME</title>
 
+<!-- FAVICON -->
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+<!-- FAVICON -->
+
 <!-- Css to make the site work -->
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -56,6 +61,10 @@
         <!-- Welcome Message -->
         <div class="text-center padbottom30">
             <h1>Bem vindo à ASA Tait</h1>
+            <p class="tx-quem-somos">
+                A AsaTait Editoração, há 17 anos no mercado de editoração, é um escritório especializado na produção, redação, diagramação e arte-final de jornais e revistas empresariais.<br />
+                A empresa se consolidou no mercado atendendo clientes de todos os segmentos e portes, produzindo jornais e revistas de circulação nacional.
+            </p>
         </div>
         <!-- Welcome Message -->
 
@@ -64,9 +73,9 @@
             <!-- Intro Buttons -->
             <div class="span3">
                 <div class="introicons">
-                    <i class="icon-comment inverse-background"></i>
-                    <h6 class="inverse-font">Criação de Conteúdo</h6>
-                    <p>We have created lots of YouTube videos just so you can achieve everything we have to offer within the Alfie WordPress Theme!</p>
+                    <i class="icon-th-list inverse-background"></i>
+                    <h6 class="inverse-font">Jornais</h6>
+                    <p>Jornais para funcionários, clientes ou para ambos. Periodicidade mensal, bimestral ou trimestral.</p>
                 </div>                
             </div>
             <!-- Intro Buttons -->
@@ -74,9 +83,9 @@
             <!-- Intro Buttons -->
             <div class="span3">
                 <div class="introicons">
-                    <i class="icon-resize-full yellow-background"></i>
-                    <h6 class="inverse-font">Diagramação</h6>
-                    <p>Developed to look good no matter what platform or device you are viewing the website on, go a head, try shrinking your browser!</p>
+                    <i class="icon-file-text yellow-background"></i>
+                    <h6 class="inverse-font">Revistas</h6>
+                    <p>Revistas mensais, bimestrais, trimestrais ou anuais. Comemorativas, 5 anos, 10 anos, 20 anos, etc.</p>
                 </div>
             </div>
             <!-- Intro Buttons -->
@@ -84,9 +93,9 @@
             <!-- Intro Buttons -->
             <div class="span3">
                 <div class="introicons">
-                    <i class="icon-calendar red-background"></i>
-                    <h6 class="inverse-font">Editoração</h6>
-                    <p>Developed with high level of coding and care to provide everyone with a Html5 compliant markup for this amazing website template</p>
+                    <i class="icon-book red-background"></i>
+                    <h6 class="inverse-font">Manuais</h6>
+                    <p>Manual do funcionário, manual de integração, manual de ética e manual de segurança.</p>
                 </div>
             </div>
             <!-- Intro Buttons -->
@@ -94,9 +103,9 @@
             <!-- Intro Buttons -->
             <div class="span3">
                 <div class="introicons">
-                    <i class="icon-print blue-background"></i>
-                    <h6 class="inverse-font">Redação</h6>
-                    <p>We have incorporated a few nice subtle animations which finishes this template off, and gives it a really professional finish!</p>
+                    <i class="icon-font blue-background"></i>
+                    <h6 class="inverse-font">Textos</h6>
+                    <p>Textos para sites com renovação periódica e redação de avisos e comunicação internas.</p>
                 </div>
             </div>
             <!-- Intro Buttons -->
@@ -111,7 +120,7 @@
 	<div class="container">
         <!-- Portfolio Title -->
 		<div class="text-center padbottom30">
-			<h1>Últimas Revistas</h1>
+			<h1>Últimas Publicações</h1>
 		</div>
         <!-- Portfolio Title -->
 
@@ -121,13 +130,13 @@
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
                     <a href="#">
-                        <img src="images/portfolio/98ec08df1c0a9ece958e6b9d76b2d1f1.png" alt="Alfie Html Theme">
+                        <img src="uploads/revistas/capa/01.jpg" alt="Jornal Frango Granjeiro">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Alfie Htme Template">Alfie Html Template</a>
+                    <a class="inverse-link" href="#" title="Jornal Frango Granjeiro">Jornal Frango Granjeiro</a>
                 </h3>
-                <span class="teamposition padbottom30">nobis est eligend</span>
+                <span class="teamposition padbottom30">Informativo</span>
                 <div class="clearfix"></div>
             </div>
             <!-- Latest portfolio item -->
@@ -136,13 +145,13 @@
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
                     <a href="#">
-                        <img src="images/portfolio/98ec08df1c0a9ece958e6b9d76b2d1f1.png" alt="Alfie Html Theme">
+                        <img src="uploads/revistas/capa/02.jpg" alt="Jornal Presença Viva">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Alfie Htme Template">Alfie Html Template</a>
+                    <a class="inverse-link" href="#" title="Jornal Presença Viva">Jornal Presença Viva</a>
                 </h3>
-                <span class="teamposition padbottom30">nobis est eligend</span>
+                <span class="teamposition padbottom30">Jornal</span>
                 <div class="clearfix"></div>
             </div>
             <!-- Latest portfolio item -->
@@ -151,13 +160,13 @@
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
                     <a href="#">
-                        <img src="images/portfolio/98ec08df1c0a9ece958e6b9d76b2d1f1.png" alt="Alfie Html Theme">
+                        <img src="uploads/revistas/capa/03.jpg" alt="Jornal da Hydronorth">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Alfie Htme Template">Alfie Html Template</a>
+                    <a class="inverse-link" href="#" title="Jornal da Hydronorth">Jornal da Hydronorth</a>
                 </h3>
-                <span class="teamposition padbottom30">nobis est eligend</span>
+                <span class="teamposition padbottom30">Informativo</span>
                 <div class="clearfix"></div>
             </div>
             <!-- Latest portfolio item -->
@@ -166,13 +175,13 @@
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
                     <a href="#">
-                        <img src="images/portfolio/98ec08df1c0a9ece958e6b9d76b2d1f1.png" alt="Alfie Html Theme">
+                        <img src="uploads/revistas/capa/04.jpg" alt="Jornal Belagrícola">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Alfie Htme Template">Alfie Html Template</a>
+                    <a class="inverse-link" href="#" title="Jornal Belagrícola">Jornal Belagrícola</a>
                 </h3>
-                <span class="teamposition padbottom30">nobis est eligend</span>
+                <span class="teamposition padbottom30">Informativo</span>
                 <div class="clearfix"></div>
             </div>
             <!-- Latest portfolio item -->
@@ -181,13 +190,13 @@
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
                     <a href="#">
-                        <img src="images/portfolio/98ec08df1c0a9ece958e6b9d76b2d1f1.png" alt="Alfie Html Theme">
+                        <img src="uploads/revistas/capa/05.jpg" alt="Jornal DJ Móveis Arapongas">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Alfie Htme Template">Alfie Html Template</a>
+                    <a class="inverse-link" href="#" title="Jornal DJ Móveis Arapongas">Jornal DJ Móveis Arapongas</a>
                 </h3>
-                <span class="teamposition padbottom30">nobis est eligend</span>
+                <span class="teamposition padbottom30">Informativo</span>
                 <div class="clearfix"></div>
             </div>
             <!-- Latest portfolio item -->
@@ -196,13 +205,13 @@
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
                     <a href="#">
-                        <img src="images/portfolio/98ec08df1c0a9ece958e6b9d76b2d1f1.png" alt="Alfie Html Theme">
+                        <img src="uploads/revistas/capa/06.jpg" alt="Jornal Sicoob Metropolitano Maringá">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Alfie Htme Template">Alfie Html Template</a>
+                    <a class="inverse-link" href="#" title="Jornal Sicoob Metropolitano Maringá">Jornal Sicoob Metropolitano Maringá</a>
                 </h3>
-                <span class="teamposition padbottom30">nobis est eligend</span>
+                <span class="teamposition padbottom30">Informativo</span>
                 <div class="clearfix"></div>
             </div>
             <!-- Latest portfolio item -->

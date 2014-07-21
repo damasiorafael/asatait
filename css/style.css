@@ -479,6 +479,7 @@ a img.aligncenter, img.aligncenter {display: block;margin-left: auto;margin-righ
 	background-color:#565656;
 	min-height:86px;
 	z-index: 2000;
+	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
@@ -541,7 +542,7 @@ a img.aligncenter, img.aligncenter {display: block;margin-left: auto;margin-righ
 }
 
 .logo > a > img{
-	max-height:76px;
+	max-height:110px;
 	width:auto;
 }
 
@@ -556,12 +557,14 @@ a img.aligncenter, img.aligncenter {display: block;margin-left: auto;margin-righ
 #main_menu{
 	width:auto;
 	float:right;
+	padding-top: 10px;
 }
 
 
 #main_menu_sticky{
 	width:auto;
 	float:right;
+	padding-top: 10px;
 }
 
 .nav{
@@ -953,6 +956,11 @@ ul.flickrhere li img{
 	font-size:14px;
 	font-weight:400;
 	color:#A8A8A8;
+}
+
+p.tx-quem-somos {
+	color: #666666;
+	padding: 0 240px;
 }
 
 /* clients list */
