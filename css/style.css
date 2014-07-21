@@ -963,9 +963,14 @@ p.tx-quem-somos {
 	padding: 0 240px;
 }
 
-@media (min-width: 768px) and (max-width: 979px) {
+@media (max-width: 1378px){
 	p.tx-quem-somos {
-		color: #666666;
+		padding: 120;
+	}
+}
+
+@media (max-width: 1024px){
+	p.tx-quem-somos {
 		padding: 0;
 	}
 }
