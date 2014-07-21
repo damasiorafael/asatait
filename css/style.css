@@ -963,6 +963,13 @@ p.tx-quem-somos {
 	padding: 0 240px;
 }
 
+@media (min-width: 768px) and (max-width: 979px) {
+	p.tx-quem-somos {
+		color: #666666;
+		padding: 0;
+	}
+}
+
 /* clients list */
 ul.clientslist{
 	width:100%;
