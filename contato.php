@@ -62,7 +62,7 @@
             <div class="span8 padbottom50">
                 <div id="note"></div>
                 <div id="fields">
-                    <form id="ajax-contact-form">
+                    <form id="ajax-contact-form" method="post" action="contato.php">
                         <p class="form_info">Nome <span class="required">*</span></p>
                         <input type="text" name="nome" id="nome" value="" class="fullwidth" />
                         <p class="form_info">E-mail <span class="required">*</span></p>
@@ -81,16 +81,22 @@
                     <span>Endereço</span>
                 </h4>
                 <address>
-                    Rua Fernando de Noronha, 970 sala 2 - sobreloja<br />
-                    Londrina, Paraná - Brasil
-                    CEP: 86020-300
+                    Rua Fernando de Noronha, 970, 1º andar, Centro<br />
+                    Londrina, Paraná
+                    CEP: 806061-410
                 </address>
                 
                 <h4 class="title">
                     <span>Email</span>
                 </h4>
                 <address>
+                    <span>Direção: Angela Tait</span><br />
                     <a class="inverse-link" title="email" href="mailto:angela@asatait.com.br">angela@asatait.com.br</a><br />
+                </address>
+
+                <address>
+                    <span>Atendimento e prospecção de clientes: Victor Lopes</span><br />
+                    <a class="inverse-link" title="email" href="mailto:atendimento@asatait.com.br">atendimento@asatait.com.br</a><br />
                 </address>
                 
                 <h4 class="title">
@@ -98,6 +104,13 @@
                 </h4>
                 <address>
                     (43) 3301-7691<br />
+                </address>
+
+                <h4 class="title">
+                    <span>Horário de Atendimento</span>
+                </h4>
+                <address>
+                    <span>De segunda a sexta-feira, das 8h30 às 12h e das 14h às 18h</span>
                 </address>
                 
             </div>
