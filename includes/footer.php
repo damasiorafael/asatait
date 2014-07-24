@@ -6,6 +6,7 @@
             <div class="span12 text-center copyright">
                 <p>&copy;2014 ASA Tait Todos os direitos reservados - Desenvolvido por D2R Tecnologia.</p>
             </div>
+            <?php /* ?>
             <div class="span12 text-center footersocial">
                 <p>
                    <a href="#" title="Follow us on Facebook" class="inverse-link"><i class="icon-facebook"></i></a>
@@ -20,6 +21,7 @@
                    <a href="#" title="Follow us on Google+" class="inverse-link"><i class="icon-google-plus"></i></a>               
                 </p>
             </div>
+            <?php */ ?>
         </div>
         <!-- Copyright & Social Area -->
     </div>

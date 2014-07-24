@@ -18,15 +18,15 @@
                             </li>
                            
                             <li>
-                                <a href="#">QUEM SOMOS</a>
+                                <a href="quemsomos.php">QUEM SOMOS</a>
                             </li>
                             
-                            <li class="dropdown">
-                                <a href="#">PRODUTOS</a>
+                            <li>
+                                <a href="produtos.php">PRODUTOS</a>
                             </li>
                                 
                             <li>
-                                <a href="#">CLIENTES</a>
+                                <a href="clientes.php">CLIENTES</a>
                             </li>
                             
                             <li>
@@ -63,15 +63,15 @@
                             </li>
                            
                             <li>
-                                <a href="#">QUEM SOMOS</a>
+                                <a href="quemsomos.php">QUEM SOMOS</a>
                             </li>
                             
                             <li class="dropdown">
-                                <a href="#">PRODUTOS</a>
+                                <a href="produtos.php">PRODUTOS</a>
                             </li>
                                 
                             <li>
-                                <a href="#">CLIENTES</a>
+                                <a href="clientes.php">CLIENTES</a>
                             </li>
                             
                             <li>

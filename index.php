@@ -45,13 +45,14 @@
 <body>
 
 <?php include('includes/header.php'); ?>
-
+<?php /* ?>
 <!-- Slider Section -->
 <section class="frontpageslider">
     <img src="images/nerveslider/image1.jpg" alt="image41" />
     <img src="images/nerveslider/image2.jpg" alt="image3" />
 </section>
 <!-- Slider Section -->
+<?php */ ?>
 
 <!-- Page Section Section -->
 <section class="page-section">
@@ -129,27 +130,12 @@
             <!-- Latest portfolio item -->
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="#">
-                        <img src="uploads/revistas/capa/01.jpg" alt="Jornal Frango Granjeiro">
+                    <a href="uploads/revistas/arquivos/JORNAL FRANGO GRANJEIRO.pdf" target="_blank">
+                        <img src="uploads/revistas/capa/JORNAL FRANGO GRANJEIRO.jpg" alt="JORNAL FRANGO GRANJEIROJORNAL FRANGO GRANJEIRO">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Jornal Frango Granjeiro">Jornal Frango Granjeiro</a>
-                </h3>
-                <span class="teamposition padbottom30">Informativo</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="#">
-                        <img src="uploads/revistas/capa/02.jpg" alt="Jornal Presença Viva">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Jornal Presença Viva">Jornal Presença Viva</a>
+                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL FRANGO GRANJEIRO.pdf" target="_blank" title="JORNAL FRANGO GRANJEIRO">JORNAL FRANGO GRANJEIRO</a>
                 </h3>
                 <span class="teamposition padbottom30">Jornal</span>
                 <div class="clearfix"></div>
@@ -159,12 +145,87 @@
             <!-- Latest portfolio item -->
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="#">
-                        <img src="uploads/revistas/capa/03.jpg" alt="Jornal da Hydronorth">
+                    <a href="uploads/revistas/arquivos/JORNAL PRESENÇA VIVA.pdf" target="_blank">
+                        <img src="uploads/revistas/capa/JORNAL PRESENÇA VIVA.jpg" alt="JORNAL PRESENÇA VIVA">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Jornal da Hydronorth">Jornal da Hydronorth</a>
+                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL PRESENÇA VIVA.pdf" target="_blank" title="JORNAL PRESENÇA VIVA">JORNAL PRESENÇA VIVA</a>
+                </h3>
+                <span class="teamposition padbottom30">Jornal</span>
+                <div class="clearfix"></div>
+            </div>
+            <!-- Latest portfolio item -->
+
+            <!-- Latest portfolio item -->
+            <div class="span3 teammember text-center">
+                <div class="teamimagewrap smallportfolioshortcode">
+                    <a href="uploads/revistas/arquivos/JORNAL DA HYDRONORTH.pdf" target="_blank">
+                        <img src="uploads/revistas/capa/JORNAL DA HYDRONORTH.jpg" alt="JORNAL DA HYDRONORTH">
+                    </a>
+                </div>
+                <h3 class="teamname pad30">
+                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL DA HYDRONORTH.pdf" target="_blank" title="JORNAL DA HYDRONORTH">JORNAL DA HYDRONORTH</a>
+                </h3>
+                <span class="teamposition padbottom30">Jornal</span>
+                <div class="clearfix"></div>
+            </div>
+            <!-- Latest portfolio item -->
+
+            <!-- Latest portfolio item -->
+            <div class="span3 teammember text-center">
+                <div class="teamimagewrap smallportfolioshortcode">
+                    <a href="uploads/revistas/arquivos/JORNAL BELAGRÍCOLA.pdf" target="_blank">
+                        <img src="uploads/revistas/capa/JORNAL BELAGRÍCOLA.jpg" alt="JORNAL BELAGRÍCOLA">
+                    </a>
+                </div>
+                <h3 class="teamname pad30">
+                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL BELAGRÍCOLA.pdf" target="_blank" title="JORNAL BELAGRÍCOLA">JORNAL BELAGRÍCOLA</a>
+                </h3>
+                <span class="teamposition padbottom30">Jornal</span>
+                <div class="clearfix"></div>
+            </div>
+            <!-- Latest portfolio item -->
+
+            <!-- Latest portfolio item -->
+            <div class="span3 teammember text-center">
+                <div class="teamimagewrap smallportfolioshortcode">
+                    <a href="uploads/revistas/arquivos/JORNAL DJ MÓVEIS ARAPONGAS.pdf" target="_blank">
+                        <img src="uploads/revistas/capa/JORNAL DJ MÓVEIS ARAPONGAS.jpg" alt="JORNAL DJ MÓVEIS ARAPONGAS">
+                    </a>
+                </div>
+                <h3 class="teamname pad30">
+                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL DJ MÓVEIS ARAPONGAS.pdf" target="_blank" title="JORNAL DJ MÓVEIS ARAPONGAS">JORNAL DJ MÓVEIS ARAPONGAS</a>
+                </h3>
+                <span class="teamposition padbottom30">Jornal</span>
+                <div class="clearfix"></div>
+            </div>
+            <!-- Latest portfolio item -->
+
+            <!-- Latest portfolio item -->
+            <div class="span3 teammember text-center">
+                <div class="teamimagewrap smallportfolioshortcode">
+                    <a href="uploads/revistas/arquivos/JORNAL SICOOB METROPOLITANO MARINGÁ.pdf" target="_blank">
+                        <img src="uploads/revistas/capa/JORNAL SICOOB METROPOLITANO MARINGÁ.jpg" alt="JORNAL SICOOB METROPOLITANO MARINGÁ">
+                    </a>
+                </div>
+                <h3 class="teamname pad30">
+                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL SICOOB METROPOLITANO MARINGÁ.pdf" target="_blank" title="JORNAL SICOOB METROPOLITANO MARINGÁ">JORNAL SICOOB METROPOLITANO MARINGÁ</a>
+                </h3>
+                <span class="teamposition padbottom30">Jornal</span>
+                <div class="clearfix"></div>
+            </div>
+            <!-- Latest portfolio item -->
+
+            <!-- Latest portfolio item -->
+            <div class="span3 teammember text-center">
+                <div class="teamimagewrap smallportfolioshortcode">
+                    <a href="uploads/revistas/arquivos/INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ.pdf" target="_blank">
+                        <img src="uploads/revistas/capa/INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ.jpg" alt="INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ">
+                    </a>
+                </div>
+                <h3 class="teamname pad30">
+                    <a class="inverse-link" href="uploads/revistas/arquivos/INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ.pdf" target="_blank" title="INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ">INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ</a>
                 </h3>
                 <span class="teamposition padbottom30">Informativo</span>
                 <div class="clearfix"></div>
@@ -174,74 +235,14 @@
             <!-- Latest portfolio item -->
             <div class="span3 teammember text-center">
                 <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="#">
-                        <img src="uploads/revistas/capa/04.jpg" alt="Jornal Belagrícola">
+                    <a href="uploads/revistas/arquivos/REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO.pdf" target="_blank">
+                        <img src="uploads/revistas/capa/REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO.jpg" alt="REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO">
                     </a>
                 </div>
                 <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Jornal Belagrícola">Jornal Belagrícola</a>
+                    <a class="inverse-link" href="uploads/revistas/arquivos/REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO.pdf" target="_blank" title="REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO">REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO</a>
                 </h3>
-                <span class="teamposition padbottom30">Informativo</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="#">
-                        <img src="uploads/revistas/capa/05.jpg" alt="Jornal DJ Móveis Arapongas">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Jornal DJ Móveis Arapongas">Jornal DJ Móveis Arapongas</a>
-                </h3>
-                <span class="teamposition padbottom30">Informativo</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="#">
-                        <img src="uploads/revistas/capa/06.jpg" alt="Jornal Sicoob Metropolitano Maringá">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Jornal Sicoob Metropolitano Maringá">Jornal Sicoob Metropolitano Maringá</a>
-                </h3>
-                <span class="teamposition padbottom30">Informativo</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="#">
-                        <img src="images/portfolio/98ec08df1c0a9ece958e6b9d76b2d1f1.png" alt="Alfie Html Theme">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Alfie Htme Template">Alfie Html Template</a>
-                </h3>
-                <span class="teamposition padbottom30">nobis est eligend</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="#">
-                        <img src="images/portfolio/98ec08df1c0a9ece958e6b9d76b2d1f1.png" alt="Alfie Html Theme">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="#" title="Alfie Htme Template">Alfie Html Template</a>
-                </h3>
-                <span class="teamposition padbottom30">nobis est eligend</span>
+                <span class="teamposition padbottom30">Revista</span>
                 <div class="clearfix"></div>
             </div>
             <!-- Latest portfolio item -->

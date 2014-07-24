@@ -963,6 +963,27 @@ p.tx-quem-somos {
 	padding: 0 240px;
 }
 
+p.tx-pg-quem-somos {
+	color: #333;
+}
+
+p.tx-destaque-pg-quem-somos {
+	font-size: 12px;
+	color: #FFF;
+	line-height: 20px;
+}
+
+p.tx-destaque-pg-produtos {
+	font-size: 16px;
+	color: #FFF;
+	
+}
+
+.tit-publicacao {
+	font-size: 12px!important;
+	line-height: 22px;
+}
+
 /* clients list */
 ul.clientslist{
 	width:100%;
