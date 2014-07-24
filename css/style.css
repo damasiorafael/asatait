@@ -984,6 +984,18 @@ p.tx-destaque-pg-produtos {
 	line-height: 22px;
 }
 
+@media (max-width: 1378px){
+	p.tx-quem-somos {
+		padding: 120;
+	}
+}
+
+@media (max-width: 1024px){
+	p.tx-quem-somos {
+		padding: 0;
+	}
+}
+
 /* clients list */
 ul.clientslist{
 	width:100%;
