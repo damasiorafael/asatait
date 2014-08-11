@@ -28,7 +28,7 @@ a:visited.inverse-link,
 .pagination ul > li > a:hover,
 .tagcloud a:hover,
 .blogwidgetarea li a:hover,
-.grid figcaption{color:#E6B61E;}
+.grid figcaption{color:#565656;}
 
 .tooltip.bottom .tooltip-arrow,
 .teammember,
@@ -57,7 +57,8 @@ ul.option-set li a:hover,
 .pagination ul > li > a:focus, .pagination ul > .active > a, .pagination ul > .active > span,
 .tagcloud a,
 .featured  > header,
-.grid figcaption a{background-color:#E6B61E;}
+.grid figcaption a{background-color:#D5A50D;}
+/*.grid figcaption a{background-color:#E6B61E;}*/
 
 .progress-inverse .bar,
 .progress .bar-inverse{background-color:#E6B61E !important;}

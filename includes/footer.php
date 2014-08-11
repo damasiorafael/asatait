@@ -1,10 +1,10 @@
 <!-- Footer Section -->
-<footer class="footer">
+<footer class="footer white-background">
     <div class="container">
         <!-- Copyright & Social Area -->
         <div class="row">
             <div class="span12 text-center copyright">
-                <p>&copy;2014 ASA Tait Todos os direitos reservados - Desenvolvido por D2R Tecnologia.</p>
+                <p>&copy;2014 ASA Tait Todos os direitos reservados - <span>Tel: (43) 3028-0090</span>  - Desenvolvido por D2R Tecnologia.</p>
             </div>
             <?php /* ?>
             <div class="span12 text-center footersocial">

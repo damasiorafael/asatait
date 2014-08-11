@@ -53,8 +53,8 @@
     
 		<div class="container pad15">
         
-       		<h1>QUEM ATENDEMOS?</h1>
-       		<p class="tx-destaque-pg-produtos">
+       		<h1>ALGUNS DE NOSSOS CLIENTES</h1>
+       		<p class="tx-destaque-pg-quem-somos">
                 Atendemos clientes de pequeno, médio e grande porte, de diferentes segmentos, tais como escolas, construtoras, indústrias, bancos, cooperativas, sindicatos, igrejas, associações, frigoríficos, entre outros.  Com 17 anos de atuação, temos grande experiência em diversos ramos, como educacional, moveleiro, construção civil, frigoríficos, tecnologia e meio ambiente, entre outros. Confira alguns dos nossos clientes em atendimento.
             </p>
                       
@@ -66,7 +66,7 @@
 <!-- Page header Section -->
 
 <!-- Page Section Section -->
-<section class="page-section-white">
+<section class="page-section-white dark-background">
 	
     <div class="container">
 		

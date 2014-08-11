@@ -55,19 +55,9 @@
 <?php */ ?>
 
 <!-- Page Section Section -->
-<section class="page-section">
+<section class="page-section dark-background page-section-home">
 
 	<div class="container">
-
-        <!-- Welcome Message -->
-        <div class="text-center padbottom30">
-            <h1>Bem vindo à ASA Tait</h1>
-            <p class="tx-quem-somos">
-                A AsaTait Editoração, há 17 anos no mercado de editoração, é um escritório especializado na produção, redação, diagramação e arte-final de jornais e revistas empresariais.<br />
-                A empresa se consolidou no mercado atendendo clientes de todos os segmentos e portes, produzindo jornais e revistas de circulação nacional.
-            </p>
-        </div>
-        <!-- Welcome Message -->
 
 		<!-- Intro Buttons Section -->
         <div class="row text-center">
@@ -75,8 +65,9 @@
             <div class="span3">
                 <div class="introicons">
                     <i class="icon-th-list inverse-background"></i>
-                    <h6 class="inverse-font">Jornais</h6>
-                    <p>Jornais para funcionários, clientes ou para ambos. Periodicidade mensal, bimestral ou trimestral.</p>
+                    <h6 class="inverse-font">
+                        <a href="quemsomos.php" title="QUEM SOMOS">QUEM SOMOS</a>
+                    </h6>
                 </div>                
             </div>
             <!-- Intro Buttons -->
@@ -85,8 +76,9 @@
             <div class="span3">
                 <div class="introicons">
                     <i class="icon-file-text yellow-background"></i>
-                    <h6 class="inverse-font">Revistas</h6>
-                    <p>Revistas mensais, bimestrais, trimestrais ou anuais. Comemorativas, 5 anos, 10 anos, 20 anos, etc.</p>
+                    <h6 class="inverse-font">
+                        <a href="produtos.php" title="PRODUTOS">PRODUTOS</a>
+                    </h6>
                 </div>
             </div>
             <!-- Intro Buttons -->
@@ -95,8 +87,9 @@
             <div class="span3">
                 <div class="introicons">
                     <i class="icon-book red-background"></i>
-                    <h6 class="inverse-font">Manuais</h6>
-                    <p>Manual do funcionário, manual de integração, manual de ética e manual de segurança.</p>
+                    <h6 class="inverse-font">
+                         <a href="clientes.php" title="CLIENTES">CLIENTES</a>
+                    </h6>
                 </div>
             </div>
             <!-- Intro Buttons -->
@@ -105,8 +98,9 @@
             <div class="span3">
                 <div class="introicons">
                     <i class="icon-font blue-background"></i>
-                    <h6 class="inverse-font">Textos</h6>
-                    <p>Textos para sites com renovação periódica e redação de avisos e comunicação internas.</p>
+                    <h6 class="inverse-font">
+                        <a href="contato.php" title="CONTATO">CONTATO</a>
+                    </h6>
                 </div>
             </div>
             <!-- Intro Buttons -->
@@ -115,165 +109,6 @@
    </div>
 </section>
 <!-- Page Section Section -->
-
-<!-- Dark Page Section Section -->
-<section class="page-section grey-background">
-	<div class="container">
-        <!-- Portfolio Title -->
-		<div class="text-center padbottom30">
-			<h1>Últimas Publicações</h1>
-		</div>
-        <!-- Portfolio Title -->
-
-        <!-- Latest portfolio wrapper -->
-        <div class="row padbottom20">    
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="uploads/revistas/arquivos/JORNAL FRANGO GRANJEIRO.pdf" target="_blank">
-                        <img src="uploads/revistas/capa/JORNAL FRANGO GRANJEIRO.jpg" alt="JORNAL FRANGO GRANJEIROJORNAL FRANGO GRANJEIRO">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL FRANGO GRANJEIRO.pdf" target="_blank" title="JORNAL FRANGO GRANJEIRO">JORNAL FRANGO GRANJEIRO</a>
-                </h3>
-                <span class="teamposition padbottom30">Jornal</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="uploads/revistas/arquivos/JORNAL PRESENÇA VIVA.pdf" target="_blank">
-                        <img src="uploads/revistas/capa/JORNAL PRESENÇA VIVA.jpg" alt="JORNAL PRESENÇA VIVA">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL PRESENÇA VIVA.pdf" target="_blank" title="JORNAL PRESENÇA VIVA">JORNAL PRESENÇA VIVA</a>
-                </h3>
-                <span class="teamposition padbottom30">Jornal</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="uploads/revistas/arquivos/JORNAL DA HYDRONORTH.pdf" target="_blank">
-                        <img src="uploads/revistas/capa/JORNAL DA HYDRONORTH.jpg" alt="JORNAL DA HYDRONORTH">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL DA HYDRONORTH.pdf" target="_blank" title="JORNAL DA HYDRONORTH">JORNAL DA HYDRONORTH</a>
-                </h3>
-                <span class="teamposition padbottom30">Jornal</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="uploads/revistas/arquivos/JORNAL BELAGRÍCOLA.pdf" target="_blank">
-                        <img src="uploads/revistas/capa/JORNAL BELAGRÍCOLA.jpg" alt="JORNAL BELAGRÍCOLA">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL BELAGRÍCOLA.pdf" target="_blank" title="JORNAL BELAGRÍCOLA">JORNAL BELAGRÍCOLA</a>
-                </h3>
-                <span class="teamposition padbottom30">Jornal</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="uploads/revistas/arquivos/JORNAL DJ MÓVEIS ARAPONGAS.pdf" target="_blank">
-                        <img src="uploads/revistas/capa/JORNAL DJ MÓVEIS ARAPONGAS.jpg" alt="JORNAL DJ MÓVEIS ARAPONGAS">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL DJ MÓVEIS ARAPONGAS.pdf" target="_blank" title="JORNAL DJ MÓVEIS ARAPONGAS">JORNAL DJ MÓVEIS ARAPONGAS</a>
-                </h3>
-                <span class="teamposition padbottom30">Jornal</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="uploads/revistas/arquivos/JORNAL SICOOB METROPOLITANO MARINGÁ.pdf" target="_blank">
-                        <img src="uploads/revistas/capa/JORNAL SICOOB METROPOLITANO MARINGÁ.jpg" alt="JORNAL SICOOB METROPOLITANO MARINGÁ">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="uploads/revistas/arquivos/JORNAL SICOOB METROPOLITANO MARINGÁ.pdf" target="_blank" title="JORNAL SICOOB METROPOLITANO MARINGÁ">JORNAL SICOOB METROPOLITANO MARINGÁ</a>
-                </h3>
-                <span class="teamposition padbottom30">Jornal</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="uploads/revistas/arquivos/INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ.pdf" target="_blank">
-                        <img src="uploads/revistas/capa/INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ.jpg" alt="INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="uploads/revistas/arquivos/INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ.pdf" target="_blank" title="INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ">INFORME PUBLICITÁRIO COLÉGIO MAXI CUIABÁ</a>
-                </h3>
-                <span class="teamposition padbottom30">Informativo</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-
-            <!-- Latest portfolio item -->
-            <div class="span3 teammember text-center">
-                <div class="teamimagewrap smallportfolioshortcode">
-                    <a href="uploads/revistas/arquivos/REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO.pdf" target="_blank">
-                        <img src="uploads/revistas/capa/REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO.jpg" alt="REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO">
-                    </a>
-                </div>
-                <h3 class="teamname pad30">
-                    <a class="inverse-link" href="uploads/revistas/arquivos/REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO.pdf" target="_blank" title="REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO">REVISTA DO SISTEMA MAXI DE ENSINO E ABRIL EDUCAÇÃO</a>
-                </h3>
-                <span class="teamposition padbottom30">Revista</span>
-                <div class="clearfix"></div>
-            </div>
-            <!-- Latest portfolio item -->
-        </div>
-        <div class="clearfix"></div>
-	</div>
-</section>
-<!-- Dark Page Section Section -->
-
-<!-- White Page Section Section -->
-<section class="page-section-white">
-    <div class="container">
-        <!--Latest clients title -->
-        <div class="text-center padbottom30">
-            <h1>Clientes</h1>
-        </div>
-        <!--Latest clients title -->
-         
-        <!--Latest clients area -->
-        <div class="row">
-            <ul class="clientslist">
-                <li><img alt="lo4" src="uploads/clientes/ayoshii.png"></li>
-                <li><img alt="lo4" src="uploads/clientes/abril.png"></li>
-                <li><img alt="lo4" src="uploads/clientes/maxi.png"></li>
-                <li><img alt="lo4" src="uploads/clientes/frango_granjeiro.png"></li>
-                <li><img alt="lo4" src="uploads/clientes/yticon.png"></li>
-           </ul>
-        </div>
-	</div>
-</section>
-<!-- White Page Section Section -->
 
 <?php include('includes/footer.php'); ?>
 

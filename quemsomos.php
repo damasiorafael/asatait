@@ -67,7 +67,7 @@
 <!-- Page header Section -->
 
 <!-- Page Section Section -->
-<section class="page-section">
+<section class="page-section dark-background">
 	
     <!-- Container -->
 	<div class="container padbottom60">
@@ -78,7 +78,7 @@
             <!-- Half Width Section -->
 			<div class="span6">
             
-				<h4 class="title"><span>Um pouco sobre nosso trabalho</span></h4>
+				<h4 class="title"><span class="white-title">Por que lançar um jornal ou revista empresarial?</span></h4>
 				
                 <!-- Accordion Section -->
 				<div class="accordion" id="accordion_52282">
@@ -87,9 +87,6 @@
 					<div class="accordion-group">
 						
                       <!-- Accordion Item -->
-						<div class="accordion-heading">
-                            <a class="accordion-toggle inverse-link" data-toggle="collapse" data-parent="#accordion_52282" href="#accordion_522821">Por que lançar um jornal ou revista impressa?</a>
-                        </div>
 					
 						<div id="accordion_522821" class="accordion-body collapse in">
 							<div class="accordion-inner">
@@ -118,14 +115,14 @@
             <!-- Half Width Section -->
              <div class="span6">
              
-                 <h4 class="title"><span>Um pouco sobre nossos produtos e serviços</span></h4>
+                 <h4 class="title"><span class="white-title">Produtos</span></h4>
                 
                 <!-- Progressive Bars -->
                 <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Jornais</span><div class="bar" style="width: 100%"></div></div>
                 <div class="progress progress-danger" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Revistas</span><div class="bar" style="width: 100%"></div></div>
                 <div class="progress progress-info" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Manuais</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-warning" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Textos</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-success" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Redação</span><div class="bar" style="width: 100%"></div></div>
+                <div class="progress progress-warning" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Textos para site</span><div class="bar" style="width: 100%"></div></div>
+                <div class="progress progress-success" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Redação de cartas</span><div class="bar" style="width: 100%"></div></div>
                 <!-- Progressive Bars -->
     
              </div>

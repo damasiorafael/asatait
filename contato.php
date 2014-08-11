@@ -103,7 +103,7 @@
                     <span>Telefone</span>
                 </h4>
                 <address>
-                    (43) 3301-7691<br />
+                    (43) 3028-0090<br />
                 </address>
 
                 <h4 class="title">

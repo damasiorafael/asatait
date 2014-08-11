@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<header class="header">
+<header class="header white-background">
 
 	<div class="container">
     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -44,7 +44,7 @@
 </header>
 <!-- Header Section -->
 <!-- Sticky Header Section -->
-<header class="header stickyheader">
+<header class="header stickyheader white-background">
 
 	<div class="container">
     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
