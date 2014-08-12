@@ -53,29 +53,36 @@ jQuery(document).ready(function($) {
 			
 		var successmessage = "Your message has been sent. Thank you!";
 		var email = jQuery("#email");
-		var name = jQuery("#name");
-		var message = jQuery("#message");
+		var name = jQuery("#nome");
+		var message = jQuery("#mensagem");
 		var isvalid = 1;
 		var url = "contact.php";
-			
-		jQuery.post(url,{ name: name.val(), email: email.val(), message: message.val(), isvalid: isvalid } , function(data) {
+		jQuery.post(
+			url,
+			{
+				name: name.val(),
+				email: email.val(),
+				message: message.val(),
+				isvalid: isvalid
+			},
+			function(data){
 					
-			if(data == "OK"){
+				if(data == "OK"){
 			
-				jQuery("#email").val("");
-				jQuery("#message").val("");
-				jQuery("#name").val("");
-				jQuery("#fields").fadeOut(1000).delay(4000).fadeIn(1000);
-				jQuery("#note").html("<div class=\"alert alert-success\">"+successmessage+"</div>").delay(1000).fadeIn(1000).delay(2000).fadeOut(1000);
-				jQuery("input[type=submit]", jQuery("#ajax-contact-form")).removeAttr("disabled");
-						
-			} else {
+					jQuery("#email").val("");
+					jQuery("#mensagem").val("");
+					jQuery("#nome").val("");
+					jQuery("#fields").fadeOut(1000).delay(4000).fadeIn(1000);
+					jQuery("#note").html("<div class=\"alert alert-success\">"+successmessage+"</div>").delay(1000).fadeIn(1000).delay(2000).fadeOut(1000);
+					jQuery("input[type=submit]", jQuery("#ajax-contact-form")).removeAttr("disabled");		
 				
-				jQuery("#note").html(data).fadeIn().delay(1000).fadeOut();
-				jQuery("input[type=submit]", jQuery("#ajax-contact-form")).removeAttr("disabled");
-				return false;
+				} else {
+				
+					jQuery("#note").html(data).fadeIn().delay(2000).fadeOut();
+					jQuery("input[type=submit]", jQuery("#ajax-contact-form")).removeAttr("disabled");
+					return false;
 							
-			}
+				}
 					
 		});
 			

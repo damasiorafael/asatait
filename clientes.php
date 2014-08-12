@@ -80,19 +80,9 @@
           <div class="row">
 
                 <ul class="clientslist">
-                    <li><img alt="lo4" src="uploads/clientes/ayoshii.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/abril.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/maxi.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/frango_granjeiro.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/yticon.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/hoftalon.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/belagricola.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/hydronorth.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/tamarana.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/sicoob.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/rondopar.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/paroquia_auxiliadora.png"></li>
-                    <li><img alt="lo4" src="uploads/clientes/instituto_atsushi.png"></li>
+                    <?php for($i = 1; $i <= 16; $i++){ ?>
+                        <li><img alt="lo4" src="uploads/clientes/<?php echo $i; ?>.jpg"></li>
+                    <?php } ?>
                 </ul>
            
            </div>

@@ -50,7 +50,7 @@
 <!-- Google Map Section -->*/ ?>
 
 <!-- Page Section -->
-<section class="page-section">
+<section class="page-section dark-background">
 
 	<!-- Container -->
 	<div class="container">
@@ -62,12 +62,12 @@
             <div class="span8 padbottom50">
                 <div id="note"></div>
                 <div id="fields">
-                    <form id="ajax-contact-form" method="post" action="contato.php">
-                        <p class="form_info">Nome <span class="required">*</span></p>
-                        <input type="text" name="nome" id="nome" value="" class="fullwidth" />
-                        <p class="form_info">E-mail <span class="required">*</span></p>
-                        <input type="text" name="email" id="email" value="" class="fullwidth"  />
-                        <p class="form_info">Mensagem</p>
+                    <form id="ajax-contact-form" name="ajax-contact-form" disable>
+                        <p class="form_info">Escreva seu nome: <span class="required">*</span></p>
+                        <input type="text" name="nome" id="nome" class="fullwidth" />
+                        <p class="form_info">E-mail: <span class="required">*</span></p>
+                        <input type="text" name="email" id="email" class="fullwidth"  />
+                        <p class="form_info">Deixe sua mensagem: <span class="required">*</span></p>
                         <textarea name="mensagem" id="mensagem" class="fullwidtharea"></textarea>
                         <input type="submit" class="btn-form" value="Enviar" />
                     </form>
@@ -91,12 +91,12 @@
                 </h4>
                 <address>
                     <span>Direção: Angela Tait</span><br />
-                    <a class="inverse-link" title="email" href="mailto:angela@asatait.com.br">angela@asatait.com.br</a><br />
+                    <a class="inverse-link inverse-link-email" title="email" href="mailto:angela@asatait.com.br">angela@asatait.com.br</a><br />
                 </address>
 
                 <address>
                     <span>Atendimento e prospecção de clientes: Victor Lopes</span><br />
-                    <a class="inverse-link" title="email" href="mailto:atendimento@asatait.com.br">atendimento@asatait.com.br</a><br />
+                    <a class="inverse-link inverse-link-email" title="email" href="mailto:atendimento@asatait.com.br">atendimento@asatait.com.br</a><br />
                 </address>
                 
                 <h4 class="title">
@@ -110,7 +110,7 @@
                     <span>Horário de Atendimento</span>
                 </h4>
                 <address>
-                    <span>De segunda a sexta-feira, das 8h30 às 12h e das 14h às 18h</span>
+                    <span>De segunda a sexta-feira,<br /> das 8h30 às 12h e das 14h às 18h</span>
                 </address>
                 
             </div>

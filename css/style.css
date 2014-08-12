@@ -62,7 +62,7 @@ img.smoothimage{
 address{
 	font-size:14px;
 	font-weight:400;
-	color:#999;	
+	color:#FFF;	
 }
 
 hr {
@@ -139,6 +139,8 @@ p.lead{font-color:#7F7F7F;font-size:18px;font-weight:400;font-family: 'Open Sans
 a.inverse-link,
 a:visited.inverse-link{color:#000!important;}
 a:hover.inverse-link{color:#E6B61E!important;}
+
+a.inverse-link-email { color: #FFF!important; font-weight: bold;}
 
 ul.the-icons li{list-style:none;padding:3px 0px;}
 
@@ -372,7 +374,7 @@ a:hover.comment-reply-link{
 	font-weight:300;
 	text-transform:uppercase;
 	font-size:12px;
-	color: #656565;
+	color: #FFF;
 }
 
 .fullwidth{
@@ -1035,10 +1037,10 @@ ul.clientslist li{
 	-o-transition: all .3s ease-in-out;
 	transition: all .3s ease-in-out;
 	cursor:pointer;
-	 filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android */
-    filter: gray; /* IE6-9 */
-    -webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */
-	grayscale(100%);
+	/* filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 10+, Firefox on Android * /
+    filter: gray; /* IE6-9 * /
+    -webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS * /
+	grayscale(100%);*/
 }
 
 ul.clientslist li img{
