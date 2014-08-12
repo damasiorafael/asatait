@@ -74,55 +74,25 @@
 		
        <!-- Row -->
 		<div class="row">
-        	
-            <!-- Half Width Section -->
-			<div class="span6">
-            
-				<h4 class="title"><span class="white-title">Por que lançar um jornal ou revista empresarial?</span></h4>
-				
-                <!-- Accordion Section -->
-				<div class="accordion" id="accordion_52282">
-                	
-                  <!-- Accordion Wrap -->
-					<div class="accordion-group">
-						
-                      <!-- Accordion Item -->
-					
-						<div id="accordion_522821" class="accordion-body collapse in">
-							<div class="accordion-inner">
-                         		<p class="tx-pg-quem-somos">
-                                     Com o crescimento da comunicação virtual e o excesso de informações on line e digitalizadas, as publicações impressas ganharam um novo status no mundo contemporâneo, permitindo alto índice de leitura, assimilação do conteúdo, fixação da imagem e arquivamento. Embora os sites e informativos on line façam parte do cotidiano contemporâneo, pesquisas mundiais apontam que as pessoas preferem livros e jornais impressos (no papel) por gerar maior prazer na leitura. Nunca o mercado editorial de livros, revistas e jornais esteve tão em alta quanto no século mais digital da humanidade.     
-    As empresas, em permanente crescimento, adotam os jornais e revistas para se comunicar com os funcionários e clientes, atingindo excelente nível de transmissão da informação. A cultura do jornal (tanto interno quanto externo) permite à empresa democratizar e unificar as notícias, garantindo maior sinergia entre os departamentos e setores e entre empresa e clientes.  O jornal empresarial é um instrumento de comunicação eficaz e de extremo potencial para valorizar os funcionários, motivá-los, capacitá-los e difundir a cultura da empresa.
-                                </p>
-                            </div>
-                        </div>
-                </div>
-                <!-- Accordion Item -->
-                   
-               </div>
-               <!-- Accordion Section -->
-		
-				<script>
-                    jQuery(document).ready(function(){
-                        jQuery('div#accordion_522821').addClass('in');
-                    });
-                </script>
-            
-            
-            </div>
-            <!-- Half Width Section -->
             
             <!-- Half Width Section -->
-             <div class="span6">
+             <div class="span12">
              
                  <h4 class="title"><span class="white-title">Produtos</span></h4>
                 
                 <!-- Progressive Bars -->
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Jornais</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-danger" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Revistas</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-info" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Manuais</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-warning" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Textos para site</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-success" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Redação de cartas</span><div class="bar" style="width: 100%"></div></div>
+                <ul class="lista-produtos-quem-somos">
+                    <li>Jornais para funcionários: mensais, bimestrais ou trimestrais</li>
+                    <li>Jornais para clientes: mensais, bimestrais ou trimestrais</li>
+                    <li>Revistas mensais, bimestrais, trimestrais, semestrais ou anuais</li>
+                    <li>Revistas comemorativas de 5, 10, 15, 25 anos, etc.</li>
+                    <li>Manual do Funcionário</li>
+                    <li>Manual de Integração</li>
+                    <li>Manual de Ética</li>
+                    <li>Manual de Segurança</li>
+                    <li>Textos para site (renovação periódica dos conteúdos)</li>
+                    <li>Redação de Avisos e Comunicação Internas.</li>
+                </ul>
                 <!-- Progressive Bars -->
     
              </div>

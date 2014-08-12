@@ -82,8 +82,6 @@
 <section class="page-section padbottom50 dark-background">
 
     <div class="container">
-        
-        <h1>Nossas publicações</h1>
 
         <ul id="ublportfolio" class="grid cs-style-3">
         
@@ -109,49 +107,6 @@
        </ul>
        
     </div>
-    
-</section>
-<!-- Page Section Section -->
-
-<!-- Page Section Section -->
-<section class="page-section dark-background">
-    
-    <!-- Container -->
-    <div class="container padbottom60">
-       <!-- Row -->
-        <div class="row">
-            
-           <!-- Large Title -->
-            <div class="text-center padbottom30">
-            
-            <h1>Nossos produtos</h1>
-           </div>
-           <!-- Large Title -->
-            
-           <!-- Full Width -->
-            <div class="span12">
-                
-              <!-- Progressive Bars -->
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Jornais para funcionários: mensais, bimestrais ou trimestraisWeb Design</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Jornais para clientes: mensais, bimestrais ou trimestraisWeb Development</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Revistas mensais, bimestrais, trimestrais, semestrais ou anuais</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Revistas comemorativas de 5, 10, 15, 25 anos, etc.</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Manual do Funcionário</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Manual de Integração</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Manual de Ética</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Manual de Segurança</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Textos para site (renovação periódica dos conteúdos)</span><div class="bar" style="width: 100%"></div></div>
-                <div class="progress progress-inverse" style="margin-bottom: 5px; margin-top:4px;"><span class="progressinner">Redação de Avisos e Comunicação Internas.</span><div class="bar" style="width: 100%"></div></div>
-              <!-- Progressive Bars -->
-    
-            </div>
-           <!-- Full Width -->
-    
-        </div>
-        <!-- Row -->
-    
-    </div>
-    <!-- Container -->
     
 </section>
 <!-- Page Section Section -->

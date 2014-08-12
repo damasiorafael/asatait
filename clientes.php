@@ -69,19 +69,13 @@
 <section class="page-section-white dark-background">
 	
     <div class="container">
-		
-        <!--Latest clients title -->
-        <div class="text-center padbottom30">
-            <h1>Nossos Clientes</h1>
-        </div>
-         <!--Latest clients title -->
          
           <!--Latest clients area -->
           <div class="row">
 
-                <ul class="clientslist">
+                <ul class="clientslist white-background clientslist-four">
                     <?php for($i = 1; $i <= 16; $i++){ ?>
-                        <li><img alt="lo4" src="uploads/clientes/<?php echo $i; ?>.jpg"></li>
+                        <li class="fourcol"><img alt="lo4" src="uploads/clientes/<?php echo $i; ?>.jpg"></li>
                     <?php } ?>
                 </ul>
            

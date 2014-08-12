@@ -586,6 +586,7 @@ a img.aligncenter, img.aligncenter {display: block;margin-left: auto;margin-righ
 	color:#E8B635;
 	border-radius:4px 4px 0px 0px;
 	font-size: 16px;
+	font-weight: bold;
 }
 
 .nav-pills > li > a:hover{
@@ -989,8 +990,15 @@ p.tx-pg-quem-somos {
 }
 
 p.tx-destaque-pg-quem-somos {
-	font-size: 12px;
+	font-size: 14px;
 	color: #FFF;
+	line-height: 20px;
+}
+
+ul.lista-produtos-quem-somos li {
+	list-style: disc;
+	font-size: 14px;
+	color: white;
 	line-height: 20px;
 }
 
@@ -1015,11 +1023,12 @@ p.tx-destaque-pg-quem-somos {
 ul.clientslist{
 	width:100%;
 	float:left;
-	padding:0px 0px 30px 0px;
+	padding: 30px 0px 30px 0px;
+	margin: 0 0 60px 0;
 }
 
 ul.clientslist li{
-	width:16% !important;
+	width: 21% !important;
 	height:auto;
 	display:inline-block;
 	float:left;
