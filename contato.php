@@ -62,14 +62,14 @@
             <div class="span8 padbottom50">
                 <div id="note"></div>
                 <div id="fields">
-                    <form id="ajax-contact-form" name="ajax-contact-form" disable>
+                    <form id="ajax-contact-form">
                         <p class="form_info">Escreva seu nome: <span class="required">*</span></p>
-                        <input type="text" name="nome" id="nome" class="fullwidth" />
-                        <p class="form_info">E-mail: <span class="required">*</span></p>
-                        <input type="text" name="email" id="email" class="fullwidth"  />
+                        <input type="text" name="name" id="name" value="" class="fullwidth" />
+                        <p class="form_info">email: <span class="required">*</span></p>
+                        <input type="text" name="email" id="email" value="" class="fullwidth"  />
                         <p class="form_info">Deixe sua mensagem: <span class="required">*</span></p>
-                        <textarea name="mensagem" id="mensagem" class="fullwidtharea"></textarea>
-                        <input type="submit" class="btn-form" value="Enviar" />
+                        <textarea name="message" id="message" class="fullwidtharea"></textarea>
+                        <input type="submit" class="btn-form" value="Submit" />
                     </form>
                 </div>
             </div>
