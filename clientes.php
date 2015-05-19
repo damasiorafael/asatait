@@ -55,7 +55,7 @@
         
        		<h1>ALGUNS DE NOSSOS CLIENTES</h1>
        		<p class="tx-destaque-pg-quem-somos">
-                Atendemos clientes de pequeno, médio e grande porte, de diferentes segmentos, tais como escolas, construtoras, indústrias, bancos, cooperativas, sindicatos, igrejas, associações, frigoríficos, entre outros.  Com 17 anos de atuação, temos grande experiência em diversos ramos, como educacional, moveleiro, construção civil, frigoríficos, tecnologia e meio ambiente, entre outros. Confira alguns dos nossos clientes em atendimento.
+                Atendemos clientes de pequeno, médio e grande porte, de diferentes segmentos, tais como escolas, construtoras, indústrias, bancos, cooperativas, sindicatos, igrejas, associações, frigoríficos, entre outros.  Com 17 anos de atuação, temos grande experiência em diversos ramos, como educacional, moveleiro, construção civil, frigoríficos, tecnologia e meio ambiente, entre outros. Confira alguns dos clientes atendidos.
             </p>
                       
         </div>
@@ -74,7 +74,7 @@
           <div class="row">
 
                 <ul class="clientslist white-background clientslist-four">
-                    <?php for($i = 1; $i <= 16; $i++){ ?>
+                    <?php for($i = 1; $i <= 34; $i++){ ?>
                         <li class="fourcol"><img alt="lo4" src="uploads/clientes/<?php echo $i; ?>.jpg"></li>
                     <?php } ?>
                 </ul>
