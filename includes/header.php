@@ -7,7 +7,7 @@
     </button>
     	<div class="row">
     
-            <section class="span3 logo"><a href="index.html" title="ASA Tait"><img src="img/logo_asatait.png" alt="ASA Tait Editoração"></a></section>
+            <section class="span3 logo"><a href="index.php" title="ASA Tait"><img src="img/logo_asatait.png" alt="ASA Tait Editoração"></a></section>
             
             <section class="span9">
                 <nav id="main_menu">
@@ -52,7 +52,7 @@
     </button>
     	<div class="row">
     
-            <section class="span3 logo"><a href="index.html" title="Alfie"><img src="img/logo_asatait.png" alt="Alfie The Responsive Bootstrap Html Template"></a></section>
+            <section class="span3 logo"><a href="index.php" title="Alfie"><img src="img/logo_asatait.png" alt="Alfie The Responsive Bootstrap Html Template"></a></section>
             
             <section class="span9">
                 <nav id="main_menu_sticky"> 
